@@ -5,7 +5,7 @@ import java.util.Scanner;
         System.out.print("Enter your name: ");
         Scanner input = new Scanner(System.in);
         String name = input.nextLine();
-        System.out.print("Welcome " + name + " to KG Coding...");
+        System.out.print("Welcome " + name + "Backchod Coding");
 
     }
 }
