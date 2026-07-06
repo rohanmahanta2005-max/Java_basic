@@ -7,7 +7,6 @@ This repository contains my beginner Java practice programs.
 - Operators
 - Conditional Statements
 - Loops
-- Methods
 - Basic Java Programs
 
 📚 I am continuing my Java learning in my **Java-Full-Course** repository.
